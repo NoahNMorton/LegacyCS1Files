@@ -1,0 +1,2 @@
+"C:\\Users\\jtully\\Desktop\\Unit 1 work\\Code Examples\\Full Screen Your Resolution\\FrameFile_FSYR.java"
+"C:\\Users\\jtully\\Desktop\\Unit 1 work\\Code Examples\\Full Screen Your Resolution\\MainFile_FSYR.java"

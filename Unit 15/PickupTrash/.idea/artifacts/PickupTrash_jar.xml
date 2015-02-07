@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PickupTrash:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PickupTrash_jar</output-path>
+    <root id="archive" name="PickupTrash.jar">
+      <element id="module-output" name="PickupTrash" />
+    </root>
+  </artifact>
+</component>

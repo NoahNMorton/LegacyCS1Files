@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace_user>
+	<active_project>
+		<label>Mouse Listener Teleporting Box Frame</label>
+	</active_project>
+	<projects>
+		<project>
+			<label>Mouse Listener Teleporting Box Frame</label>
+			<showfiles>false</showfiles>
+		</project>
+	</projects>
+	<open_files>
+		<docitem>
+			<path>MBF_Frame.java</path>
+			<source>true</source>
+			<index>0</index>
+			<active>false</active>
+		</docitem>
+		<docitem>
+			<path>MainFile.java</path>
+			<source>true</source>
+			<index>1</index>
+			<active>false</active>
+		</docitem>
+	</open_files>
+	<symboltables>
+		<symboltable>
+			<path>MBF_Frame.java.sdk</path>
+			<symbols>
+				<symbol>MBF_Frame</symbol>
+			</symbols>
+		</symboltable>
+		<symboltable>
+			<path>MainFile.java.sdk</path>
+			<symbols>
+				<symbol>MBF_Frame</symbol>
+				<symbol>MainFile</symbol>
+			</symbols>
+		</symboltable>
+	</symboltables>
+</workspace_user>

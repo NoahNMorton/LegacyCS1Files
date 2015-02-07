@@ -1,0 +1,2 @@
+"C:\\Users\\jtully\\Desktop\\Unit 1 work\\Code Examples\\JFrame Probelm B\\FrameFile_FP_B.java"
+"C:\\Users\\jtully\\Desktop\\Unit 1 work\\Code Examples\\JFrame Probelm B\\MainFile_FP_B.java"

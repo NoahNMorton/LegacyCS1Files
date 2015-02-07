@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Pickup Trash</label>
+	</settings>
+	<users>
+		<user>
+			<path>Pickup Trash.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Pickup Trash.jcp</path>
+		</project>
+	</projects>
+</workspace>
